@@ -10,7 +10,7 @@ export const perfil = {
   foto: '/foto.jpg',
   fotoPosicion: '50% 20%',
   fotoZoom: 1,
-  github: '',
+  github: 'https://github.com/hanslanda79',
   linkedin: '',
 }
 
