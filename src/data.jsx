@@ -11,7 +11,7 @@ export const perfil = {
   fotoPosicion: '50% 20%',
   fotoZoom: 1,
   github: 'https://github.com/hanslanda79',
-  linkedin: '',
+  linkedin: 'https://www.linkedin.com/in/jesus-altuve-ab30b524a/',
 }
 
 export const servicios = [
